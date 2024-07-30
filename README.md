@@ -5,7 +5,7 @@ Frontend Web Developer
 ----------------------
 
 * 🌍  I'm based in Turkey, Kayseri
-* 🖥️  See my portfolio at [RNXCode](http://rnxcode.com)
+* 🖥️  See my portfolio at [RNXCode](https://rnxcode.com)
 * ✉️  You can contact me at [abdulkerim.awad@gmail.com](mailto:abdulkerim.awad@gmail.com)
 
 <a href="https://www.github.com/abdulkerimawad" target="_blank" rel="noreferrer"><img
@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/abdulkerimawad?logo=github&style=fo
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25>
     </a>
 
-### Skills
+### My Professional Skills
 
 
 <p align="left">
