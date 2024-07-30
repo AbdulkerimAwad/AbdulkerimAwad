@@ -7,7 +7,6 @@ Frontend Web Developer
 * 🌍  I'm based in Turkey, Kayseri
 * 🖥️  See my portfolio at [RNXCode](http://rnxcode.com)
 * ✉️  You can contact me at [abdulkerim.awad@gmail.com](mailto:abdulkerim.awad@gmail.com)
-* 🧠  I'm currently learning Next.js
 
 <a href="https://www.github.com/abdulkerimawad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdulkerimawad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
